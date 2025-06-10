@@ -1,5 +1,5 @@
-### string.h library written in 64-bit assembly.
-## Runing the code.
+## string.h library written in 64-bit assembly.
+### Runing the code.
 this code uses MASM assembler.
 you can run the code with the following command. 
 ```bash
